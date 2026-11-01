@@ -1,0 +1,14 @@
+{
+  "site_name": "The Absurd Daily",
+  "tagline": "True stories, drawn deadpan.",
+  "language": "en",
+  "site_url": "",
+  "owner_name": "Your Name",
+  "contact_email": "you@example.com",
+  "hosting_provider": "Cloudflare",
+  "show_ai_disclosure": true,
+  "adsense_client": "",
+  "adsense_slots": {
+    "below_story": ""
+  }
+}
