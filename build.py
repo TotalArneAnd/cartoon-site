@@ -306,7 +306,7 @@ def render_cartoon(site: dict, S: dict, entries: list[dict], index: int, as_home
     source = (f'<p class="source">{esc(S["source"])}: <a href="{esc(e["source_url"])}" '
               f'rel="noopener" target="_blank">{esc(e["source_name"])}</a></p>')
     disclosure = ""
-    if site.get("show_ai_disclosure", True):
+    if site.get("show_ai_disclosure", True) and not as_home:
         disclosure = (f'<p class="disclosure">{esc(S["disclosure"])} '
                       f'<a href="/about/">{esc(S["how"])}</a>.</p>')
     body = f"""<article class="cartoon">
