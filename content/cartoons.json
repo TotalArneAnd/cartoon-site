@@ -34,5 +34,17 @@
     "source_name": "The Seattle Times",
     "source_url": "https://www.seattletimes.com/seattle-news/giant-animatronic-grimothy-is-a-halloween-hit-in-wa-neighborhood/",
     "panel_count": 1
+  },
+  {
+    "slug": "2026-11-02-1500-patient-audience",
+    "date": "2026-11-02T15:00:08.763045+01:00",
+    "title": "Patient audience",
+    "caption": "The pigs appreciated the thirty-two hours of preparation.",
+    "blurb": "A record-breaking pumpkin weighing over three thousand pounds was carved into the heaviest jack-o-lantern ever in Salem, Massachusetts. After Halloween the decorated gourd was donated as feed for pigs.",
+    "alt_text": "Two pigs watch from behind a fence as someone carves a gigantic jack-o-lantern.",
+    "image": "img/2026-11-02-1500-patient-audience.png",
+    "source_name": "Guinness World Records",
+    "source_url": "https://www.guinnessworldrecords.com/news/commercial/2026/10/heaviest-pumpkin-dons-carved-costume-in-salem-to-turn-into-heftiest-jack-o-lantern-ever",
+    "panel_count": 1
   }
 ]
