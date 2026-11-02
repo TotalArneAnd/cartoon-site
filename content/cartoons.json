@@ -22,5 +22,17 @@
     "source_name": "CBS Baltimore",
     "source_url": "https://www.cbsnews.com/baltimore/news/frederick-flying-cows-world-record-for-most-people-dressed-as-cows/",
     "panel_count": 1
+  },
+  {
+    "slug": "2026-11-02-1200-the-raccoon-memorial",
+    "date": "2026-11-02T12:00:08.705951+01:00",
+    "title": "The raccoon memorial",
+    "caption": "A quarter mile of traffic waited to view the memorial.",
+    "blurb": "Two brothers on Bainbridge Island built a fourteen-foot animatronic raccoon as a Halloween decoration. The giant creature drew long lines of visiting cars and required internal maintenance through a rear access hatch.",
+    "alt_text": "Two small raccoons gaze up at a giant mechanical raccoon with glowing eyes in a front yard.",
+    "image": "img/2026-11-02-1200-the-raccoon-memorial.png",
+    "source_name": "The Seattle Times",
+    "source_url": "https://www.seattletimes.com/seattle-news/giant-animatronic-grimothy-is-a-halloween-hit-in-wa-neighborhood/",
+    "panel_count": 1
   }
 ]
