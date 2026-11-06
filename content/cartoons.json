@@ -58,5 +58,17 @@
     "source_name": "BBC News",
     "source_url": "https://www.bbc.co.uk/news/articles/cr74pdzv2vz5o",
     "panel_count": 1
+  },
+  {
+    "slug": "2026-11-06-1612-the-alligator-s-final-game",
+    "date": "2026-11-06T16:12:34.979529+01:00",
+    "title": "The alligator's final game",
+    "caption": "He had won the sweepstakes, but the alligator played through the tutorial first.",
+    "blurb": "Microsoft built a single functioning Xbox Series X inside a five-foot animatronic alligator to promote a sweepstakes. The creature was constructed by John Nolan Studio and designed to hold game discs in its mouth.",
+    "alt_text": "A man inserts a game disc into the mouth of a motionless animatronic alligator; the alligator's eyes glow red.",
+    "image": "img/2026-11-06-1612-the-alligator-s-final-game.png",
+    "source_name": "Xbox Wire",
+    "source_url": "https://news.xbox.com/en-us/2026/11/03/xbox-series-x-bite-console-sweepstakes/",
+    "panel_count": 3
   }
 ]
