@@ -94,5 +94,17 @@
     "source_name": "The Sunday Guardian",
     "source_url": "https://sundayguardianlive.com/trending/watch-video-3-foot-long-alligator-walks-into-north-carolina-bagel-shop-owner-jumps-in-fear-as-customer-grabs-chair-to-shield-himself-watch-cctv-footage-318386/",
     "panel_count": 1
+  },
+  {
+    "slug": "2026-11-07-1200-tarantula-travel-conditions",
+    "date": "2026-11-07T12:00:43.773230+01:00",
+    "title": "Tarantula travel conditions",
+    "caption": "His connecting flight was delayed.",
+    "blurb": "Peruvian authorities seized over 3,000 live tarantulas hidden inside dirty socks in suitcases at Lima airport, bound for Germany. Two Germans and a Polish citizen were arrested in what authorities said was a large-scale smuggling operation worth up to 1.5 million euros.",
+    "alt_text": "Two panels: first, a tarantula with a baggage tag sits curled in a sock; second, it sits alone on an empty conveyor belt with a leg raised as if hailing a ride.",
+    "image": "img/2026-11-07-1200-tarantula-travel-conditions.png",
+    "source_name": "The Guardian",
+    "source_url": "https://www.theguardian.com/world/2026/nov/06/3000-tarantulas-smuggled-inside-dirty-socks-peru",
+    "panel_count": 2
   }
 ]
