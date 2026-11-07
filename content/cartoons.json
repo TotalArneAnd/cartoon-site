@@ -106,5 +106,17 @@
     "source_name": "The Guardian",
     "source_url": "https://www.theguardian.com/world/2026/nov/06/3000-tarantulas-smuggled-inside-dirty-socks-peru",
     "panel_count": 2
+  },
+  {
+    "slug": "2026-11-07-1500-fence-post-identification",
+    "date": "2026-11-07T15:00:43.753985+01:00",
+    "title": "Fence post identification",
+    "caption": "It was the only fence post that had moved in a month.",
+    "blurb": "A North Carolina farmer spotted what he thought was a fence post lying on the ground until it turned out to be a missing boa constrictor. The snake had escaped a month earlier and was discovered when the farmer got close enough to see it moving.",
+    "alt_text": "A very long brown boa constrictor lies perfectly straight and still on grass next to a fence, as a farmer in a straw hat reaches toward it with a repair tool.",
+    "image": "img/2026-11-07-1500-fence-post-identification.png",
+    "source_name": "UPI",
+    "source_url": "https://www.upi.com/Odd_News/2026/11/06/hoke-county-boa-constrictor-fence-post/2711793982017/",
+    "panel_count": 1
   }
 ]
