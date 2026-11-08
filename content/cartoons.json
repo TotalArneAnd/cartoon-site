@@ -130,5 +130,17 @@
     "source_name": "UPI",
     "source_url": "https://www.upi.com/Odd_News/2026/11/06/marshfield-massachusetts-loose-cow/1221793985650/",
     "panel_count": 1
+  },
+  {
+    "slug": "2026-11-08-2000-the-grape-contract",
+    "date": "2026-11-08T20:00:43.748429+01:00",
+    "title": "The grape contract",
+    "caption": "The monkey felt the arrangement was fair.",
+    "blurb": "At Shanghai Wild Animal Park, a spider monkey named Doudou refuses to eat grapes unless they are peeled first. Actor Nicky Wu visited the park and peeled grapes for the monkey, who responded by stepping on his head.",
+    "alt_text": "A spider monkey with its foot on a kneeling man's head while the man offers it a peeled grape.",
+    "image": "img/2026-11-08-2000-the-grape-contract.png",
+    "source_name": "Lianhe Zaobao",
+    "source_url": "https://www.zaobao.com.sg/en/entertainment/nicky-wu-peels-grapes-celebrity-monkey-gets-stepped-and-sighs-it-has-such-good-life",
+    "panel_count": 1
   }
 ]
