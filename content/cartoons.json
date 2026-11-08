@@ -118,5 +118,17 @@
     "source_name": "UPI",
     "source_url": "https://www.upi.com/Odd_News/2026/11/06/hoke-county-boa-constrictor-fence-post/2711793982017/",
     "panel_count": 1
+  },
+  {
+    "slug": "2026-11-08-1200-cow-evades-capture",
+    "date": "2026-11-08T12:00:43.714622+01:00",
+    "title": "Cow Evades Capture",
+    "caption": "She had been waiting to see if he would figure out the knot.",
+    "blurb": "A large cow escaped in Marshfield, Massachusetts and evaded capture for over a full day. Police warned drivers to watch out, and a local man brought his horse and lasso from a couple hours away to try to wrangle the cow back home.",
+    "alt_text": "A large black-and-white cow stands in a suburban backyard with a lasso looped over one horn, chewing calmly. A man on a horse stares from a fence, holding the other end of the lasso, looking confused.",
+    "image": "img/2026-11-08-1200-cow-evades-capture.png",
+    "source_name": "UPI",
+    "source_url": "https://www.upi.com/Odd_News/2026/11/06/marshfield-massachusetts-loose-cow/1221793985650/",
+    "panel_count": 1
   }
 ]
