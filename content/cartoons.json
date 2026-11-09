@@ -154,5 +154,17 @@
     "source_name": "Associated Press",
     "source_url": "https://www.independent.co.uk/news/florida-canals-b3081102.html",
     "panel_count": 1
+  },
+  {
+    "slug": "2026-11-09-1200-invisible-tax",
+    "date": "2026-11-09T12:00:43.762462+01:00",
+    "title": "Invisible tax",
+    "caption": "They were invisible to radar, and apparently to the naked eye as well.",
+    "blurb": "Two all-black cows escaped a property in Marshfield, Massachusetts, and evaded police for days, wandering onto a road at night. Police set up a corral with food to lure them back. The dark animals were nearly impossible to spot in the dark.",
+    "alt_text": "Two panels: first shows a confused police officer on a dark road shining a flashlight at nothing; second shows the same scene with two black cows standing directly in front of him, one holding a sign, completely invisible to the officer.",
+    "image": "img/2026-11-09-1200-invisible-tax.png",
+    "source_name": "NBC Boston",
+    "source_url": "https://www.nbcboston.com/news/local/marshfield-ma-loose-cow-bull-route-3a/4045593/",
+    "panel_count": 2
   }
 ]
