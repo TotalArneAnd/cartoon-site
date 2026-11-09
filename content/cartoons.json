@@ -190,5 +190,17 @@
     "source_name": "Yahoo Sports",
     "source_url": "https://sports.yahoo.com/articles/inactive-cowboys-player-called-hilarious-225740528.html",
     "panel_count": 1
+  },
+  {
+    "slug": "2026-11-09-2300-unwelcome-arrival",
+    "date": "2026-11-09T23:00:43.758426+01:00",
+    "title": "Unwelcome arrival",
+    "caption": "She had not ordered the moon landing experience.",
+    "blurb": "A midnight-blue hot air balloon decorated with a crescent moon and stars made an emergency landing in a residential neighborhood in Menifee, California. A resident filmed the balloon slowly descending into an open field behind a home, and everyone aboard was unharmed.",
+    "alt_text": "A dark hot air balloon with a crescent moon and stars is collapsed in a suburban backyard. An elderly woman in a floral housecoat stands at a sliding glass door holding a slice of toast, staring at the balloon with a flat, annoyed expression.",
+    "image": "img/2026-11-09-2300-unwelcome-arrival.png",
+    "source_name": "ABC7 Los Angeles",
+    "source_url": "https://abc7.com/story/video-shows-hot-air-balloon-make-unexpected-landing-menifee-neighborhood/20024634/",
+    "panel_count": 1
   }
 ]
