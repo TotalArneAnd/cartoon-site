@@ -178,5 +178,17 @@
     "source_name": "The Independent",
     "source_url": "https://www.independent.co.uk/news/world/americas/female-hawk-virginia-fat-overeating-b3080252.html",
     "panel_count": 1
+  },
+  {
+    "slug": "2026-11-09-2000-unauthorized-entry",
+    "date": "2026-11-09T20:00:43.715209+01:00",
+    "title": "Unauthorized entry",
+    "caption": "The NFL had no rule covering the half-dressed approach.",
+    "blurb": "A Dallas Cowboys player who was listed as inactive for a game sprinted onto the field in blue sweatpants and a knitted cap after a teammate recovered a fumble. A referee flagged him, and his team was penalized 15 yards for having an unauthorized player on the field.",
+    "alt_text": "A referee in a striped shirt holds a yellow penalty flag and looks down with a weary expression at a man in baggy blue sweatpants and a knitted cap who is crouched on the grass holding a football jersey, as if caught mid-change.",
+    "image": "img/2026-11-09-2000-unauthorized-entry.png",
+    "source_name": "Yahoo Sports",
+    "source_url": "https://sports.yahoo.com/articles/inactive-cowboys-player-called-hilarious-225740528.html",
+    "panel_count": 1
   }
 ]
