@@ -166,5 +166,17 @@
     "source_name": "NBC Boston",
     "source_url": "https://www.nbcboston.com/news/local/marshfield-ma-loose-cow-bull-route-3a/4045593/",
     "panel_count": 2
+  },
+  {
+    "slug": "2026-11-09-1500-dietary-consultation",
+    "date": "2026-11-09T15:00:43.738282+01:00",
+    "title": "Dietary consultation",
+    "caption": "The doctor had put her on a strict diet, but she was not ready to say goodbye to the buffet.",
+    "blurb": "A red-shouldered hawk found in a Virginia driveway was too fat to fly after weeks of eating free-roaming chickens. Wildlife rescuers put the bird on a diet. She weighed nearly double the normal amount.",
+    "alt_text": "A round hawk sits on a fence post, looking down at a white chicken standing on the grass. A small plate with a single celery stalk sits nearby.",
+    "image": "img/2026-11-09-1500-dietary-consultation.png",
+    "source_name": "The Independent",
+    "source_url": "https://www.independent.co.uk/news/world/americas/female-hawk-virginia-fat-overeating-b3080252.html",
+    "panel_count": 1
   }
 ]
