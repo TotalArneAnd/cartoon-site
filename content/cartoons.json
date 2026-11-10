@@ -226,5 +226,17 @@
     "source_name": "Spectrum Local News",
     "source_url": "https://spectrumlocalnews.com/mi/michigan/news/2026/11/09/livonia-pumpkin-deer-rescue",
     "panel_count": 1
+  },
+  {
+    "slug": "2026-11-10-2000-the-zigzag-corgi",
+    "date": "2026-11-10T20:00:43.729319+01:00",
+    "title": "The Zigzag Corgi",
+    "caption": "The defense had clearly not watched the tape.",
+    "blurb": "During a halftime corgi race at a Carolina Panthers vs. Denver Broncos game on November 8, one corgi wearing a blue sweater refused to follow the course and instead zigzagged across the field, evading roughly half a dozen security guards. The crowd erupted in laughter as the small dog turned the chase into a spectacle. Videos of the incident went viral online.",
+    "alt_text": "A small corgi in a blue sweater stands on a football field, looking back with a flat expression at three security guards lying sprawled on the grass after failing to catch it.",
+    "image": "img/2026-11-10-2000-the-zigzag-corgi.png",
+    "source_name": "New York Post",
+    "source_url": "https://nypost.com/2026/11/08/sports/corgi-goes-rogue-during-panthers-broncos-halftime-race-jukes-security-in-hilarious-viral-video/",
+    "panel_count": 1
   }
 ]
