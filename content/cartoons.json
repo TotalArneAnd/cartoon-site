@@ -202,5 +202,17 @@
     "source_name": "ABC7 Los Angeles",
     "source_url": "https://abc7.com/story/video-shows-hot-air-balloon-make-unexpected-landing-menifee-neighborhood/20024634/",
     "panel_count": 1
+  },
+  {
+    "slug": "2026-11-10-1200-the-bean-push",
+    "date": "2026-11-10T12:00:43.695890+01:00",
+    "title": "The Bean Push",
+    "caption": "The problem was not the weight. The problem was that the directions did not say which way.",
+    "blurb": "An online meme claimed a man was trapped inside Chicago's Bean sculpture, prompting about 250 people to gather at Millennium Park on November 8 to attempt moving the 110-ton structure seven inches to the left. Flyers said moving the Bean would allow rescuers to deliver pickles to the fictional trapped person. Despite sustained chanting and pushing, the sculpture did not move.",
+    "alt_text": "A large crowd presses against the side of a giant reflective bean-shaped sculpture in a park, straining with effort, while the sculpture remains unmoved.",
+    "image": "img/2026-11-10-1200-the-bean-push.png",
+    "source_name": "The Asia Business Daily",
+    "source_url": "https://www.asiae.co.kr/en/article/social-general/2026111016014915528",
+    "panel_count": 1
   }
 ]
