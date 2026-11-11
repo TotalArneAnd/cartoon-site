@@ -274,5 +274,17 @@
     "source_name": "NDTV",
     "source_url": "https://www.ndtv.com/offbeat/viral-raccoon-who-passed-out-in-liquor-store-helps-raise-rs-2-3-crore-for-local-animal-shelter-12310515",
     "panel_count": 1
+  },
+  {
+    "slug": "2026-11-11-2000-queens-quarrel",
+    "date": "2026-11-11T20:00:43.860957+01:00",
+    "title": "Queens' Quarrel",
+    "caption": "The zoo had failed to specify which colony was which.",
+    "blurb": "The Phoenix Zoo opened a new habitat for 24 naked mole rats, with two reigning queens each ruling her own colony. The nearly hairless, buck-toothed rodents live in eusocial colonies similar to bees and ants. The zoo president joked it was the first time they had proudly announced the arrival of an entire nudist colony.",
+    "alt_text": "Two naked mole rats sit side by side in a glass habitat, both wearing tiny jeweled crowns, one frowning at the other.",
+    "image": "img/2026-11-11-2000-queens-quarrel.png",
+    "source_name": "Arizona Republic",
+    "source_url": "https://www.azcentral.com/picture-gallery/news/metro-phoenix/2026/11/09/phoenix-zoo-naked-mole-rats/92693788007/",
+    "panel_count": 1
   }
 ]
