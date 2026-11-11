@@ -262,5 +262,17 @@
     "source_name": "Fox 2 Detroit",
     "source_url": "https://www.fox2detroit.com/news/pumpkin-bucket-removed-from-elusive-detroit-deer-after-10-day-search",
     "panel_count": 1
+  },
+  {
+    "slug": "2026-11-11-1500-fundraising-hangover",
+    "date": "2026-11-11T15:00:43.735402+01:00",
+    "title": "Fundraising Hangover",
+    "caption": "The fame was nice, but the new sobriety was brutal.",
+    "blurb": "A raccoon broke into a Virginia liquor store last Black Friday, smashed 14 bottles of spirits, and was found passed out on the bathroom floor. A merchandise campaign inspired by the incident raised $250,000 for Hanover County Animal Control. The funds paid for body cameras, new housing, a food shed and a pet pantry.",
+    "alt_text": "A raccoon lies on its back in a small animal shelter cell, one paw on its forehead, looking hungover, wearing a small T-shirt.",
+    "image": "img/2026-11-11-1500-fundraising-hangover.png",
+    "source_name": "NDTV",
+    "source_url": "https://www.ndtv.com/offbeat/viral-raccoon-who-passed-out-in-liquor-store-helps-raise-rs-2-3-crore-for-local-animal-shelter-12310515",
+    "panel_count": 1
   }
 ]
