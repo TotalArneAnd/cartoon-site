@@ -67,3 +67,4 @@ public/             build output (not committed)
 - The cartoon number ("No. 12") is the cartoon's position by date. Deleting an old cartoon renumbers the later ones.
 - No search, comments or pagination in the archive; with hundreds of cartoons the archive page gets long.
 - The visual design was checked in headless Chromium (desktop, phone, dark mode) with sample drawings, not with real cartoons from the image model.
+
