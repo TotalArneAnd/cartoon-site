@@ -334,5 +334,17 @@
     "source_name": "TechSpot",
     "source_url": "https://www.techspot.com/news/114526-logitech-offers-7000-employees-paid-day-off-play.html",
     "panel_count": 1
+  },
+  {
+    "slug": "2026-11-13-2000-the-unusual-specimen",
+    "date": "2026-11-13T20:00:43.771638+01:00",
+    "title": "The Unusual Specimen",
+    "caption": "\"It says here I'm a natural variation.\"",
+    "blurb": "A trail camera in Richland County, Wisconsin, captured a wild turkey with mostly-white feathers and dark gray markings, a rare 'smoke phase' caused by a genetic mutation. The Wisconsin DNR explained that the coloration is a natural variation and not a sign of domestication.",
+    "alt_text": "A mostly-white wild turkey with dark gray markings stands in a woodland clearing, looking at a small open field guide on the ground, while a normal-colored turkey watches from behind a bush, covering its beak with a wing in alarm.",
+    "image": "img/2026-11-13-2000-the-unusual-specimen.png",
+    "source_name": "UPI",
+    "source_url": "https://www.upi.com/Odd_News/2026/11/12/wisconsin-dnr-turkey-color/5191794509755/",
+    "panel_count": 1
   }
 ]
