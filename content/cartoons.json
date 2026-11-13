@@ -310,5 +310,17 @@
     "source_name": "UPI",
     "source_url": "https://www.upi.com/Odd_News/2026/11/11/moose-ice-driveway-anchorage/2421794423445/",
     "panel_count": 1
+  },
+  {
+    "slug": "2026-11-13-1200-the-tangle",
+    "date": "2026-11-13T12:00:43.729711+01:00",
+    "title": "The Tangle",
+    "caption": "She had been doing this long enough to know not to ask how.",
+    "blurb": "A female bobcat was found dangling upside-down from a barbed wire fence in Stuart, Florida. A team of deputies, animal services officers, and wildlife officials rescued her; she was treated at a wildlife hospital and released back into the wild the same day.",
+    "alt_text": "A bobcat hangs upside-down from a barbed wire fence, tangled by its legs, while a rescue worker on the ground looks up with a tired expression.",
+    "image": "img/2026-11-13-1200-the-tangle.png",
+    "source_name": "UPI",
+    "source_url": "https://www.upi.com/Odd_News/2026/11/12/martin-county-florida-bobcat-barbed-wire/5931794501662/",
+    "panel_count": 1
   }
 ]
