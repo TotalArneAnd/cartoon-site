@@ -322,5 +322,17 @@
     "source_name": "UPI",
     "source_url": "https://www.upi.com/Odd_News/2026/11/12/martin-county-florida-bobcat-barbed-wire/5931794501662/",
     "panel_count": 1
+  },
+  {
+    "slug": "2026-11-13-1500-the-company-holiday",
+    "date": "2026-11-13T15:00:43.743380+01:00",
+    "title": "The Company Holiday",
+    "caption": "He was not entirely sure what the policy was for.",
+    "blurb": "Logitech gave all 7,000 employees a paid day off to play video games, as part of an initiative called 'Logi Game Day' that challenges the idea that gaming is unproductive. The day off coincided with the launch of Grand Theft Auto 6.",
+    "alt_text": "An empty corporate office at night, with a senior executive in a suit sitting cross-legged on a small ottoman in front of a large TV, holding a video game controller with a serene expression.",
+    "image": "img/2026-11-13-1500-the-company-holiday.png",
+    "source_name": "TechSpot",
+    "source_url": "https://www.techspot.com/news/114526-logitech-offers-7000-employees-paid-day-off-play.html",
+    "panel_count": 1
   }
 ]
