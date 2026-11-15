@@ -346,5 +346,17 @@
     "source_name": "UPI",
     "source_url": "https://www.upi.com/Odd_News/2026/11/12/wisconsin-dnr-turkey-color/5191794509755/",
     "panel_count": 1
+  },
+  {
+    "slug": "2026-11-15-1200-sick-alligator-report",
+    "date": "2026-11-15T12:00:43.678610+01:00",
+    "title": "Sick Alligator Report",
+    "caption": "The patient was unresponsive but buoyant.",
+    "blurb": "Animal services officers in Sugar Land, Texas rushed to a report of a sick alligator and found an inflatable pool toy that had drifted away from someone's yard. The department praised the caller for being vigilant and said the incident ended in a good laugh.",
+    "alt_text": "Two animal services officers stand at the edge of a pond at dusk, pointing at a slightly deflated inflatable alligator pool toy floating on the water. One holds a clipboard, the other a radio.",
+    "image": "img/2026-11-15-1200-sick-alligator-report.png",
+    "source_name": "UPI",
+    "source_url": "https://www.upi.com/Odd_News/2026/11/13/sugar-land-texas-inflatable-alligator/4041794588013/",
+    "panel_count": 1
   }
 ]
