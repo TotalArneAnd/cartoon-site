@@ -382,5 +382,17 @@
     "source_name": "Marca",
     "source_url": "https://www.marca.com/en/basketball/nba/2026/11/15/the-amazing-chin-balancer-steals-the-show-with-wild-halftime-act-at-pelicans-nuggets-gam-video.html",
     "panel_count": 2
+  },
+  {
+    "slug": "2026-11-16-2000-pickle-parade",
+    "date": "2026-11-16T20:00:43.765964+01:00",
+    "title": "Pickle Parade",
+    "caption": "The parade had strict policies on self-identification.",
+    "blurb": "Philadelphia hosted the Big Dill pickle festival on National Pickle Day. 1,597 people gathered wearing custom pickle costumes for the Parade of the Pickles, setting a world record. The event also featured pickle pizza, pickle milkshakes, and a pickle priest offering blessings.",
+    "alt_text": "A large crowd of people dressed as identical green pickles stands in a city street, except one pickle near the front holding up a small sign that reads I'm a gherkin, while the others stare at it.",
+    "image": "img/2026-11-16-2000-pickle-parade.png",
+    "source_name": "NBC10 Philadelphia",
+    "source_url": "https://www.nbcphiladelphia.com/entertainment/the-scene/big-dill-pickle-party-world-record-attempt-philadelphia-2026/4491555/",
+    "panel_count": 1
   }
 ]
