@@ -370,5 +370,17 @@
     "source_name": "ABC News Australia",
     "source_url": "https://www.abc.net.au/news/2026-11-14/worlds-biggest-fly-swat-in-outback-kingoonya-sa/107314740",
     "panel_count": 1
+  },
+  {
+    "slug": "2026-11-16-1500-the-amazing-chin-balancer",
+    "date": "2026-11-16T15:00:43.740002+01:00",
+    "title": "The Amazing Chin Balancer",
+    "caption": "The judges were still deciding if it qualified as a load-bearing wall.",
+    "blurb": "Kevin Shiflett, known as 'The Amazing Chin Balancer,' performed a halftime act at a New Orleans Pelicans NBA game, balancing increasingly absurd objects on his chin. The crowd at Smoothie King Center watched his elaborate tricks with delight.",
+    "alt_text": "A man in a suit taps the leg of a chair that is being balanced on another man's chin, as if testing its structural integrity.",
+    "image": "img/2026-11-16-1500-the-amazing-chin-balancer.png",
+    "source_name": "Marca",
+    "source_url": "https://www.marca.com/en/basketball/nba/2026/11/15/the-amazing-chin-balancer-steals-the-show-with-wild-halftime-act-at-pelicans-nuggets-gam-video.html",
+    "panel_count": 2
   }
 ]
