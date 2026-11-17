@@ -406,5 +406,17 @@
     "source_name": "ABC News Australia",
     "source_url": "https://www.abc.net.au/news/2026-11-15/tasmania-unveils-neil-the-seal-management-plan/107387180",
     "panel_count": 1
+  },
+  {
+    "slug": "2026-11-17-1200-voyager-s-long-distance-call",
+    "date": "2026-11-17T12:00:43.777554+01:00",
+    "title": "Voyager's Long Distance Call",
+    "caption": "The message would arrive in about four years, if anyone was home.",
+    "blurb": "NASA's Voyager 1 spacecraft, launched in 1977, is about to become humanity's first object to reach one light-day from Earth, more than 16 billion miles away. NASA asked the public to flash Morse code 'V-G-R' into the night sky to celebrate the milestone.",
+    "alt_text": "A man stands at the base of a giant radio telescope dish, flashing a small flashlight upward in Morse code, the beam barely visible against the star-filled sky.",
+    "image": "img/2026-11-17-1200-voyager-s-long-distance-call.png",
+    "source_name": "Associated Press",
+    "source_url": "https://apnews.com/article/nasa-voyager-interstellar-space-light-day-67f53a0e274157c92305e0b03d4b800d",
+    "panel_count": 1
   }
 ]
