@@ -418,5 +418,17 @@
     "source_name": "Associated Press",
     "source_url": "https://apnews.com/article/nasa-voyager-interstellar-space-light-day-67f53a0e274157c92305e0b03d4b800d",
     "panel_count": 1
+  },
+  {
+    "slug": "2026-11-17-1500-crab-crossing",
+    "date": "2026-11-17T15:00:43.777487+01:00",
+    "title": "Crab Crossing",
+    "caption": "She had not accounted for the bottleneck at the underpass.",
+    "blurb": "Every year tens of millions of red crabs migrate from Christmas Island's forests to the coast. Parks Australia installed special crossings to help them safely traverse the roads. This year's migration was the largest in recent memory.",
+    "alt_text": "A single red crab holding a stopwatch stands at the entrance of a narrow metal bridge, while hundreds of identical crabs are stuck behind it in a long unmoving line.",
+    "image": "img/2026-11-17-1500-crab-crossing.png",
+    "source_name": "UPI",
+    "source_url": "https://www.upi.com/Odd_News/2026/11/16/australia-christmas-island-national-park-crab-migration/4821794854991/",
+    "panel_count": 2
   }
 ]
