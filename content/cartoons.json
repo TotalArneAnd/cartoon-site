@@ -442,5 +442,17 @@
     "source_name": "UPI",
     "source_url": "https://www.upi.com/Odd_News/2026/11/16/guinness-world-records-david-rush-medicine-ball/6441794848943/",
     "panel_count": 1
+  },
+  {
+    "slug": "2026-11-17-2300-monkey-business",
+    "date": "2026-11-17T23:00:43.727681+01:00",
+    "title": "Monkey Business",
+    "caption": "She asked for a lawyer and a banana, not in that order.",
+    "blurb": "Police in Albert Lea, Minnesota, responded to a report of a loose monkey at a truck stop. They found McNugget, a pet spider monkey in a diaper, shivering in the cold. Officers safely returned the monkey to its owner, a truck driver.",
+    "alt_text": "A small monkey in a diaper sits on the ground at a truck stop, shivering, while a police officer crouches nearby with a blanket.",
+    "image": "img/2026-11-17-2300-monkey-business.png",
+    "source_name": "UPI",
+    "source_url": "https://www.upi.com/Odd_News/2026/11/16/albert-lea-minnesota-spider-monkey/5631794844324/",
+    "panel_count": 2
   }
 ]
