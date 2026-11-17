@@ -430,5 +430,17 @@
     "source_name": "UPI",
     "source_url": "https://www.upi.com/Odd_News/2026/11/16/australia-christmas-island-national-park-crab-migration/4821794854991/",
     "panel_count": 2
+  },
+  {
+    "slug": "2026-11-17-2000-medicine-ball",
+    "date": "2026-11-17T20:00:43.795291+01:00",
+    "title": "Medicine Ball",
+    "caption": "\"It's the distance that makes it a record.\"",
+    "blurb": "David Rush and Chris Stumph attempted to break the Guinness World Record for catching a medicine ball while wearing boxing gloves. They achieved 45 catches over 16 feet in one minute, surpassing the previous record of 32. The attempt awaits official certification.",
+    "alt_text": "Two men in boxing gloves stand far apart in a room, one throwing and one attempting to catch a heavy medicine ball, while a third person watches with a stopwatch.",
+    "image": "img/2026-11-17-2000-medicine-ball.png",
+    "source_name": "UPI",
+    "source_url": "https://www.upi.com/Odd_News/2026/11/16/guinness-world-records-david-rush-medicine-ball/6441794848943/",
+    "panel_count": 1
   }
 ]
