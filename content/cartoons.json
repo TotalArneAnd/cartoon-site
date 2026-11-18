@@ -454,5 +454,17 @@
     "source_name": "UPI",
     "source_url": "https://www.upi.com/Odd_News/2026/11/16/albert-lea-minnesota-spider-monkey/5631794844324/",
     "panel_count": 2
+  },
+  {
+    "slug": "2026-11-18-1200-unicorn-deer",
+    "date": "2026-11-18T12:00:43.799892+01:00",
+    "title": "Unicorn Deer",
+    "caption": "\"The paperwork clearly says 'one antler on each side.' I can't approve this.\"",
+    "blurb": "A trail camera on Estonia's Saaremaa island captured footage of a roe deer with a single antler growing from the center of its skull, giving it a unicorn-like appearance. The unusual deformity is a rare genetic anomaly that occasionally occurs in deer species.",
+    "alt_text": "A roe deer with a single antler in the center of its forehead stands annoyed in a forest while a tiny fairy with a clipboard hovers nearby, frowning.",
+    "image": "img/2026-11-18-1200-unicorn-deer.png",
+    "source_name": "UPI",
+    "source_url": "https://www.upi.com/Odd_News/2026/11/17/estonia-saaremaa-unicorn-roe-deer/2271794935267/",
+    "panel_count": 1
   }
 ]
