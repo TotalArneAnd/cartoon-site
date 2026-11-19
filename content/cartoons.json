@@ -466,5 +466,17 @@
     "source_name": "UPI",
     "source_url": "https://www.upi.com/Odd_News/2026/11/17/estonia-saaremaa-unicorn-roe-deer/2271794935267/",
     "panel_count": 1
+  },
+  {
+    "slug": "2026-11-19-1200-the-unicorn-specimen",
+    "date": "2026-11-19T12:00:43.775744+01:00",
+    "title": "The Unicorn Specimen",
+    "caption": "The committee had not expected the applicant to dress for the interview.",
+    "blurb": "A trail camera in Estonia's Saaremaa island captured footage of a roe deer with a single antler-like growth on its forehead. The Lutreola Foundation jokingly declared a unicorn found. Experts could not determine from the footage whether the growth was a horn or an extra ear.",
+    "alt_text": "A roe deer with a single central antler, wearing a top hat and monocle, stands in a forest as a trail camera flashes nearby.",
+    "image": "img/2026-11-19-1200-the-unicorn-specimen.png",
+    "source_name": "UPI",
+    "source_url": "https://www.upi.com/Odd_News/2026/11/17/estonia-saaremaa-unicorn-roe-deer/2271794935267",
+    "panel_count": 1
   }
 ]
