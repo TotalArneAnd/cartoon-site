@@ -478,5 +478,17 @@
     "source_name": "UPI",
     "source_url": "https://www.upi.com/Odd_News/2026/11/17/estonia-saaremaa-unicorn-roe-deer/2271794935267",
     "panel_count": 1
+  },
+  {
+    "slug": "2026-11-20-1200-peanut-butter-explanation",
+    "date": "2026-11-20T12:00:43.788666+01:00",
+    "title": "Peanut butter explanation",
+    "caption": "The peanut's travel documents clearly listed it as the carry-on.",
+    "blurb": "Passengers on an American Airlines flight from Miami to Atlanta found dozens of their checked bags smeared with a mysterious brown substance after a two-hour wait. The airline identified the substance as liquefied peanut butter that had leaked from another passenger's luggage during the flight.",
+    "alt_text": "A baggage handler in an airport uniform stands by a luggage carousel, looking weary. Several suitcases are smeared with brown goo. A small anthropomorphic peanut in a jacket and bow tie stands on one suitcase, holding a travel document with a sheepish expression.",
+    "image": "img/2026-11-20-1200-peanut-butter-explanation.png",
+    "source_name": "WSB-TV Atlanta",
+    "source_url": "https://www.wsbtv.com/news/local/what-was-that-mysterious-brown-substance-covering-dozens-bags-atlanta-airport/RHC743G4PJFRNKWUCIG3QEY5UI",
+    "panel_count": 1
   }
 ]
