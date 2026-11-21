@@ -490,5 +490,17 @@
     "source_name": "WSB-TV Atlanta",
     "source_url": "https://www.wsbtv.com/news/local/what-was-that-mysterious-brown-substance-covering-dozens-bags-atlanta-airport/RHC743G4PJFRNKWUCIG3QEY5UI",
     "panel_count": 1
+  },
+  {
+    "slug": "2026-11-21-1200-suspect-identified",
+    "date": "2026-11-21T12:00:43.820262+01:00",
+    "title": "Suspect Identified",
+    "caption": "The suspect's photo had not yet been updated.",
+    "blurb": "Police in Casselberry, Florida responded to a report of an intruder hiding in a resident's garage. Officers arrived and found the intruder was actually a runaway pig named Bacon, who had escaped from a nearby property.",
+    "alt_text": "Two police officers stand in a garage, one holding a mugshot board with a pig's face on it, looking down at a pig sitting calmly on the garage floor.",
+    "image": "img/2026-11-21-1200-suspect-identified.png",
+    "source_name": "UPI",
+    "source_url": "https://www.upi.com/Odd_News/2026/11/20/casselberry-police-pig-bacon/8891795199569/",
+    "panel_count": 1
   }
 ]
