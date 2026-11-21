@@ -514,5 +514,17 @@
     "source_name": "UPI",
     "source_url": "https://www.upi.com/Odd_News/2026/11/20/ncdot-corn-spill-western-mountain/3571795200145/",
     "panel_count": 1
+  },
+  {
+    "slug": "2026-11-21-2000-record-heat",
+    "date": "2026-11-21T20:00:43.761553+01:00",
+    "title": "Record Heat",
+    "caption": "He would have to do it again—the timer had malfunctioned.",
+    "blurb": "A daredevil in Poland set a Guinness World Record by zip-lining approximately 570 feet while engulfed in flames. The stunt was performed as part of Guinness World Records Day celebrations.",
+    "alt_text": "A man in a fireproof suit engulfed in flames stands on a zip line platform; another figure below holds a stopwatch. The second panel shows the same flaming man at the bottom of the zip line, and the official looking at the stopwatch with a neutral expression.",
+    "image": "img/2026-11-21-2000-record-heat.png",
+    "source_name": "UPI",
+    "source_url": "https://www.upi.com/Odd_News/2026/11/20/poland-guinness-world-records-zip-line-fire/1931795195407/",
+    "panel_count": 2
   }
 ]
