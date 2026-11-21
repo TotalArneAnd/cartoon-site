@@ -502,5 +502,17 @@
     "source_name": "UPI",
     "source_url": "https://www.upi.com/Odd_News/2026/11/20/casselberry-police-pig-bacon/8891795199569/",
     "panel_count": 1
+  },
+  {
+    "slug": "2026-11-21-1500-crop-diversion",
+    "date": "2026-11-21T15:00:43.790355+01:00",
+    "title": "Crop Diversion",
+    "caption": "He had spent weeks planning the diversion.",
+    "blurb": "The North Carolina Department of Transportation closed a lane of highway in the western mountains after a large corn spill. The spilled cargo caused a messy but harmless traffic disruption.",
+    "alt_text": "A raccoon stands on a highway shoulder holding a tiny traffic cone, looking across a closed lane covered in loose yellow corn kernels, with one corn kernel on its nose.",
+    "image": "img/2026-11-21-1500-crop-diversion.png",
+    "source_name": "UPI",
+    "source_url": "https://www.upi.com/Odd_News/2026/11/20/ncdot-corn-spill-western-mountain/3571795200145/",
+    "panel_count": 1
   }
 ]
