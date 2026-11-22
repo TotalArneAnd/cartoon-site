@@ -526,5 +526,17 @@
     "source_name": "UPI",
     "source_url": "https://www.upi.com/Odd_News/2026/11/20/poland-guinness-world-records-zip-line-fire/1931795195407/",
     "panel_count": 2
+  },
+  {
+    "slug": "2026-11-22-1500-owl-stuck-to-truck",
+    "date": "2026-11-22T15:00:43.750685+01:00",
+    "title": "Owl stuck to truck",
+    "caption": "The commute had been longer than expected, but the view was worth it.",
+    "blurb": "A driver in Pennsylvania unknowingly traveled 45 miles with an owl stuck to the front of her freight truck after the bird collided with it. The owl's head was trapped above the windshield, and the driver only discovered it upon arriving at her destination. Wildlife rescuers confirmed the owl survived.",
+    "alt_text": "An owl is stuck to the front of a freight truck on a highway at night, and later a wildlife rescuer reaches up to help it in a parking lot.",
+    "image": "img/2026-11-22-1500-owl-stuck-to-truck.png",
+    "source_name": "Washington Post",
+    "source_url": "https://www.washingtonpost.com/lifestyle/2026/11/20/owl-survives-45-mile-drive-stuck-front-truck-after-collision/",
+    "panel_count": 2
   }
 ]
