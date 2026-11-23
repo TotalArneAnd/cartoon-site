@@ -562,5 +562,17 @@
     "source_name": "Outdoors.com",
     "source_url": "https://outdoors.com/help-me-identify-this-thing-man-films-bizarre-mystery-animal/",
     "panel_count": 1
+  },
+  {
+    "slug": "2026-11-23-2000-genome-sequencing",
+    "date": "2026-11-23T20:00:43.807199+01:00",
+    "title": "Genome sequencing",
+    "caption": "The spider's only comment was that the human genome seemed a bit sparse.",
+    "blurb": "A California trapdoor spider named Aptostichus stephencolberti, measuring about the size of a quarter, has a genome roughly 50% larger than the human genome, containing 4.6 billion DNA base pairs. The spider was named after Stephen Colbert in 2008 after he publicly demanded the honor on his television show.",
+    "alt_text": "A tiny trapdoor spider sits at a miniature desk in a lab, wearing reading glasses and studying a long scroll of DNA data, while a human scientist in a white coat stands over it, looking thoughtful.",
+    "image": "img/2026-11-23-2000-genome-sequencing.png",
+    "source_name": "ScienceDaily",
+    "source_url": "https://www.sciencedaily.com/releases/2026/11/261122060343.htm",
+    "panel_count": 1
   }
 ]
