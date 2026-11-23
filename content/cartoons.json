@@ -538,5 +538,17 @@
     "source_name": "Washington Post",
     "source_url": "https://www.washingtonpost.com/lifestyle/2026/11/20/owl-survives-45-mile-drive-stuck-front-truck-after-collision/",
     "panel_count": 2
+  },
+  {
+    "slug": "2026-11-23-1200-track-investigation",
+    "date": "2026-11-23T12:00:43.786541+01:00",
+    "title": "Track investigation",
+    "caption": "Extraordinary claims require extraordinary evidence, but the real problem was ordinary evidence.",
+    "blurb": "In 1982, the US Forest Service investigated 15-inch footprints found in Oregon's Umatilla National Forest that were attributed to Bigfoot. A wildlife biologist concluded the tracks were not made by a large bipedal creature but noted that faking them would have required considerable effort and detail.",
+    "alt_text": "A Forest Service biologist kneels in a muddy forest clearing, holding a tape measure next to a large footprint, while a trail of his own boot prints connects two of the giant footprints.",
+    "image": "img/2026-11-23-1200-track-investigation.png",
+    "source_name": "The Guardian",
+    "source_url": "https://www.theguardian.com/us-news/2026/nov/22/bigfoot-sighting-report-released-montana-oregon-forest-service",
+    "panel_count": 1
   }
 ]
