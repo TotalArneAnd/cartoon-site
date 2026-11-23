@@ -550,5 +550,17 @@
     "source_name": "The Guardian",
     "source_url": "https://www.theguardian.com/us-news/2026/nov/22/bigfoot-sighting-report-released-montana-oregon-forest-service",
     "panel_count": 1
+  },
+  {
+    "slug": "2026-11-23-1500-neighborhood-sighting",
+    "date": "2026-11-23T15:00:43.728940+01:00",
+    "title": "Neighborhood sighting",
+    "caption": "The internet's first response was to argue about whether it needed a lawyer.",
+    "blurb": "Dan Fulkerson filmed a strange hairless animal crossing his path in San Diego's Mission Hills neighborhood and posted the video online asking for help identifying it. The clip received tens of thousands of views in its first hour, with guesses ranging from chupacabra to a coyote with severe mange.",
+    "alt_text": "A hairless, mangy coyote stands calmly on a suburban sidewalk, looking up at a man who films it with his smartphone; a small sign reading 'FREE HUGS' leans against a nearby garden hose.",
+    "image": "img/2026-11-23-1500-neighborhood-sighting.png",
+    "source_name": "Outdoors.com",
+    "source_url": "https://outdoors.com/help-me-identify-this-thing-man-films-bizarre-mystery-animal/",
+    "panel_count": 1
   }
 ]
