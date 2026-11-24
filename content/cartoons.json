@@ -586,5 +586,17 @@
     "source_name": "New York Post",
     "source_url": "https://nypost.com/2026/11/22/us-news/see-it-santa-proposes-to-future-mrs-claus-at-parade/",
     "panel_count": 1
+  },
+  {
+    "slug": "2026-11-24-1500-drone-delivery-failure",
+    "date": "2026-11-24T15:00:43.765158+01:00",
+    "title": "Drone Delivery Failure",
+    "caption": "The delivery was faster than expected, but the packaging had clearly failed.",
+    "blurb": "A Michigan man's Amazon drone delivery of shampoo hit a cable and crashed onto his garage roof, knocking out neighbors' internet service. The incident prompted a review by the NTSB, though no one was injured and damage was minor.",
+    "alt_text": "A small drone lies upside down on a garage roof with a bent propeller, a bottle of shampoo in the gutter, and a man on the driveway looking up at it.",
+    "image": "img/2026-11-24-1500-drone-delivery-failure.png",
+    "source_name": "NBC News",
+    "source_url": "https://www.nbcnews.com/news/us-news/amazon-drone-shampoo-wire-michigan-roof-rcna611005",
+    "panel_count": 1
   }
 ]
