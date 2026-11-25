@@ -610,5 +610,17 @@
     "source_name": "NBC Boston",
     "source_url": "https://www.nbcboston.com/news/local/man-dressed-in-full-benjamin-franklin-outfit-arrested-in-bostons-north-end/4054241",
     "panel_count": 1
+  },
+  {
+    "slug": "2026-11-25-1500-a-denial-of-a-different-kind",
+    "date": "2026-11-25T15:00:43.716033+01:00",
+    "title": "A denial of a different kind",
+    "caption": "He had been prepared to deny the lizard part, but he had not been prepared for the lizard itself.",
+    "blurb": "A video of New York Assemblyman Jordan Wright blinking and rolling his eyes during a press conference sparked online conspiracy theories that he was a 'lizard person.' Wright denied the claims in an interview, insisting he was obviously human. Snopes rated the lizard claims as false.",
+    "alt_text": "A man at a podium denies being a lizard while a small lizard in a suit sits beside him checking its watch.",
+    "image": "img/2026-11-25-1500-a-denial-of-a-different-kind.png",
+    "source_name": "Snopes",
+    "source_url": "https://www.snopes.com/fact-check/nyc-assemblyman-eye-roll-lizard/",
+    "panel_count": 1
   }
 ]
