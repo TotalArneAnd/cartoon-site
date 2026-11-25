@@ -622,5 +622,17 @@
     "source_name": "Snopes",
     "source_url": "https://www.snopes.com/fact-check/nyc-assemblyman-eye-roll-lizard/",
     "panel_count": 1
+  },
+  {
+    "slug": "2026-11-25-2000-the-nut-spreaders",
+    "date": "2026-11-25T20:00:43.752747+01:00",
+    "title": "The nut spreaders",
+    "caption": "The latest offer was generous, but the terms were nuts.",
+    "blurb": "Residents of Chicago's Lincoln Park reported that people carrying matching shoulder bags had been spreading piles of expensive nuts at the base of trees, attracting large numbers of rats. Neighbors blamed a wealthy couple whose hired help reportedly did the feeding. The couple was fined but the nut-spreading continued.",
+    "alt_text": "A rat in an overcoat holds a Brazil nut to its ear like a telephone while a smaller rat watches.",
+    "image": "img/2026-11-25-2000-the-nut-spreaders.png",
+    "source_name": "The New York Times",
+    "source_url": "https://www.nytimes.com/2026/11/21/us/chicago-lincoln-park-rats.html",
+    "panel_count": 1
   }
 ]
