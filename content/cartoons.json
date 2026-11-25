@@ -598,5 +598,17 @@
     "source_name": "NBC News",
     "source_url": "https://www.nbcnews.com/news/us-news/amazon-drone-shampoo-wire-michigan-roof-rcna611005",
     "panel_count": 1
+  },
+  {
+    "slug": "2026-11-25-1200-a-historical-misunderstanding",
+    "date": "2026-11-25T12:00:43.978080+01:00",
+    "title": "A historical misunderstanding",
+    "caption": "The first hour had been taken up with a heated debate about the word 'warrant'.",
+    "blurb": "Boston police conducting a warrant sweep on Hanover Street arrested a man they found dressed in full Benjamin Franklin regalia. The man was Timothy Kingman, 66, who had outstanding warrants for assault and battery and shoplifting. He was arraigned still wearing his tricorn hat and frock coat.",
+    "alt_text": "A colonial-dressed man with his wrists bound in plastic zip ties stands in an interrogation room, facing a bewildered police officer at a desk.",
+    "image": "img/2026-11-25-1200-a-historical-misunderstanding.png",
+    "source_name": "NBC Boston",
+    "source_url": "https://www.nbcboston.com/news/local/man-dressed-in-full-benjamin-franklin-outfit-arrested-in-bostons-north-end/4054241",
+    "panel_count": 1
   }
 ]
