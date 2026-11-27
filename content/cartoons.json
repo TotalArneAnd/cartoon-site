@@ -634,5 +634,17 @@
     "source_name": "The New York Times",
     "source_url": "https://www.nytimes.com/2026/11/21/us/chicago-lincoln-park-rats.html",
     "panel_count": 1
+  },
+  {
+    "slug": "2026-11-27-1200-highway-escape-attempt",
+    "date": "2026-11-27T12:00:43.712555+01:00",
+    "title": "Highway escape attempt",
+    "caption": "With the right legal representation, he was confident the charges would be dropped.",
+    "blurb": "The day before Thanksgiving, a turkey ran onto the Garden State Parkway in New Jersey, dodging traffic as a state trooper chased it with sirens blaring. The bird attempted to fly but eventually escaped on foot into nearby woods.",
+    "alt_text": "A turkey in reading glasses holds a briefcase while facing a police car on an empty highway at dawn.",
+    "image": "img/2026-11-27-1200-highway-escape-attempt.png",
+    "source_name": "New York Post",
+    "source_url": "https://nypost.com/2026/11/26/us-news/runaway-turkey-leads-nj-troopers-on-chaotic-pre-thanksgiving-highway-chase-wild-video/",
+    "panel_count": 1
   }
 ]
