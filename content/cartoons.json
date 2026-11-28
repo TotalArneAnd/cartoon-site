@@ -658,5 +658,17 @@
     "source_name": "Deutsche Welle",
     "source_url": "https://www.dw.com/en/istanbul-lion-hunt-ends-with-no-big-cat-found-after-all/a-80020913",
     "panel_count": 1
+  },
+  {
+    "slug": "2026-11-28-1500-record-chess-match",
+    "date": "2026-11-28T15:00:43.687568+01:00",
+    "title": "Record chess match",
+    "caption": "The real challenge was getting the Guinness representative to witness the move.",
+    "blurb": "American friends Adam Wininger and Joshua Host climbed Ecuador's Mount Chimborazo to play a game of chess at 20,593 feet, breaking the Guinness World Record for highest-altitude board game. They wore gloves in freezing temperatures and vowed to beat any future challenger by another 200 feet.",
+    "alt_text": "Two men in parkas sit at a chess table on a snowy mountain peak. One holds a chess piece, the other shows a smartphone and thermometer.",
+    "image": "img/2026-11-28-1500-record-chess-match.png",
+    "source_name": "Guinness World Records",
+    "source_url": "https://www.guinnessworldrecords.com/news/2026/11/best-friends-scale-20000-ft-mountain-for-a-record-breaking-game-of-chess",
+    "panel_count": 2
   }
 ]
