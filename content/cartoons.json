@@ -646,5 +646,17 @@
     "source_name": "New York Post",
     "source_url": "https://nypost.com/2026/11/26/us-news/runaway-turkey-leads-nj-troopers-on-chaotic-pre-thanksgiving-highway-chase-wild-video/",
     "panel_count": 1
+  },
+  {
+    "slug": "2026-11-28-1200-lion-hunt-concludes",
+    "date": "2026-11-28T12:00:43.683170+01:00",
+    "title": "Lion hunt concludes",
+    "caption": "The search had been called off, but the professional assessment was a relief.",
+    "blurb": "Grainy security footage in northern Istanbul sparked a massive search involving gendarmerie, police, disaster crews, thermal drones, bait and camera traps for a suspected lion on the loose. After a full day of searching, authorities checked fresh camera angles and announced the animal was neither a lion nor any big cat at all.",
+    "alt_text": "A gendarmerie officer in a beret holds a drone monitor showing a tabby cat on a wall, while other armed officers stand behind him in a field.",
+    "image": "img/2026-11-28-1200-lion-hunt-concludes.png",
+    "source_name": "Deutsche Welle",
+    "source_url": "https://www.dw.com/en/istanbul-lion-hunt-ends-with-no-big-cat-found-after-all/a-80020913",
+    "panel_count": 1
   }
 ]
